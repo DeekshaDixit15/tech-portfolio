@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/d-dixit/',
+        linkedin: 'd-dixit',
         twitter: '',
         github: '',
     },
