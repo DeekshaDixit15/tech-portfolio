@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Deeksha Dixit', // Title for your website.
     tagline: 'Computer Vision | Machine Learning | Robotics',
     profilePhoto: 'img/profile.jpg',
-    url: 'https://deekshadixit15.github.io', // Your website URL
+    url: 'https://DeekshaDixit15.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
